@@ -1,7 +1,7 @@
 # Supportportalapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5. <br><br>
-This application is the Angular front-end to the <a href="https://github.com/metodi-velev/supportportal" target="_blank">Support Portal Backend</a>
+This application is the Angular frontend to the <a href="https://github.com/metodi-velev/supportportal" target="_blank">Support Portal Backend</a>
 
 ## Development server
 
